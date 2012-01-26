@@ -1,6 +1,6 @@
 CODE ONLINE
 I have put all the code of the PHP Class I conducted 2 times at Prime College online for others to easily view it without downloading.
-You can even use it as a reference.
+You can even use it as a reference. I should have put this online a long time back ;).
 
 SLIDES - SHEETS
 If you want to learn PHP MYSQL in 10 days you can access all the slides to do it from scratch installing XAMPP at : http://geshanmanandhar.com/slides/php
