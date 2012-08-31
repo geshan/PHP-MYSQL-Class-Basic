@@ -8,4 +8,5 @@ OR at: http://geshan.blogspot.com/2008/12/start-learning-php-with-slides-and.htm
 
 HOPE IT HELPS YOU
 From the feedback I got from new PHP programmers, I think this tutorial is quite helpful and may be it will help you learn PHP. I sense you will need
-basic programming knowledge but this course starts from the very basic. Happy PHP learning.
+basic programming knowledge but this course starts from the very basic. Happy PHP learning. This will be helpful to BIM 4th Sem students as they are doing
+PHP now.
